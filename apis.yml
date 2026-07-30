@@ -1,4 +1,16 @@
 aid: application-environment-verification
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/application-environment-verification.png
 name: Application Environment Verification
 description: "Android library and API to verify the safety of user devices, detect rooted devices and other risks"
 url: https://github.com/fingerprintjs/aev
